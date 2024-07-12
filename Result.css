@@ -1,0 +1,31 @@
+    /* table , th , td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-style: dotted;
+    overflow: initial;
+    
+
+    } */
+    table th, td {
+    background-color: rgb(245, 164, 65);
+    /* border-radius: 50px; */
+    border-style: double; 
+    /* text-align: left; */
+    
+     /* padding: 10px; */
+     border: 1px solid black;
+     display: flexbox;
+
+    }
+
+    .uu{
+    color: red;
+    
+    }
+
+    #jj{
+    color: red;
+    }
+    /* table{
+    border: 1px solid black;
+    } */
